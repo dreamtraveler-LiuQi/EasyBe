@@ -1,0 +1,2 @@
+# EasyBe
+Typecho主题
